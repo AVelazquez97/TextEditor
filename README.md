@@ -1,4 +1,9 @@
-# textEditor
-This is a university project that was created in the Data Structures and Algorithms course.
+# Text Editor made with C++
 
-### The project authors are detailed below: Lucas Techera, Nicolás Pettorossi and Alexis Velázquez (me)
+This is a university project that was developed in the Data Structures and Algorithms course.
+
+The project authors are detailed below: 
+
+- [Lucas Techera](https://github.com/ElPiche)
+- [Nicolás Pettorossi](https://github.com/NicoPettorossi)
+- [Alexis Velázquez(me)](https://github.com/Avelazquez97)
