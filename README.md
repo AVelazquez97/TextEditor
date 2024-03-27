@@ -1,4 +1,4 @@
-# Text Editor made with C++
+# Text Editor developed with C++
 
 This is a university project that was developed in the Data Structures and Algorithms course.
 
